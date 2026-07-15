@@ -1,0 +1,262 @@
+{
+  "created_at": "2026-07-15 23:08:27",
+  "num_days": 5,
+  "days": [
+    [
+      {
+        "name": "Maximum Average Subarray I",
+        "difficulty": "Easy",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "difficulty": "Easy",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Binary Subarrays With Sum",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Longest Repeating Character Replacement",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Sliding Window Maximum",
+        "difficulty": "Hard",
+        "topic": "Sliding Window + Monotonic Queue",
+        "status": "pending"
+      },
+      {
+        "name": "Maximum Erasure Value",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Maximum Beauty of an Array After Applying Operation",
+        "difficulty": "Medium",
+        "topic": "Sliding Window + Sorting",
+        "status": "pending"
+      },
+      {
+        "name": "Shortest Subarray with Sum at Least K",
+        "difficulty": "Hard",
+        "topic": "Sliding Window + Monotonic Queue",
+        "status": "pending"
+      }
+    ],
+    [
+      {
+        "name": "Maximum Number of Vowels in a Substring of Given Length",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Maximum Sum of Distinct Subarrays With Length K",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Fruit Into Baskets",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Subarrays with K Different Integers",
+        "difficulty": "Hard",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Get Equal Substrings Within Budget",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Minimum Window Substring",
+        "difficulty": "Hard",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Maximum White Tiles Covered by a Carpet",
+        "difficulty": "Medium",
+        "topic": "Sliding Window + Two Pointers",
+        "status": "pending"
+      },
+      {
+        "name": "Count Complete Subarrays in an Array",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      }
+    ],
+    [
+      {
+        "name": "Substrings of Size Three with Distinct Characters",
+        "difficulty": "Easy",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Sliding Subarray Beauty",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Max Consecutive Ones III",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Count Number of Nice Subarrays",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Frequency of the Most Frequent Element",
+        "difficulty": "Medium",
+        "topic": "Sliding Window + Sorting",
+        "status": "pending"
+      },
+      {
+        "name": "Substring with Concatenation of All Words",
+        "difficulty": "Hard",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Take K of Each Character From Left and Right",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Count Complete Substrings",
+        "difficulty": "Hard",
+        "topic": "Sliding Window",
+        "status": "pending"
+      }
+    ],
+    [
+      {
+        "name": "Contains Duplicate II",
+        "difficulty": "Easy",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Longest Subarray of 1's After Deleting One Element",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Number of Substrings Containing All Three Characters",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Find All Anagrams in a String",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Replace the Substring for Balanced String",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Count the Number of Good Subarrays",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Count Subarrays Where Max Element Appears at Least K Times",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      }
+    ],
+    [
+      {
+        "name": "K Radius Subarray Averages",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Minimum Size Subarray Sum",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Subarray Product Less Than K",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Maximize the Confusion of an Exam",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Permutation in String",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Maximum Number of Occurrences of a Substring",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "status": "pending"
+      },
+      {
+        "name": "Continuous Subarrays",
+        "difficulty": "Medium",
+        "topic": "Sliding Window + Ordered Set",
+        "status": "pending"
+      },
+      {
+        "name": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "Medium",
+        "topic": "Sliding Window + Monotonic Queue",
+        "status": "pending"
+      }
+    ]
+  ]
+}
